@@ -1,2 +1,2 @@
 # Clock
-### Wes Bos Day 2
+### Wes Bos JS 30 Day 2
